@@ -4,7 +4,7 @@
 
 # Hey, I'm HEROBRINE <img src="https://media.tenor.com/images/7b9103263827e3e43629a3648bb311a5/tenor.gif" width="55px">
 
-- I am currently pusuing my bachelors degree in CS. with specialization in InfoSEC in [Chandigarh University](https://www.cuchd.in/)
+- I am currently pusuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
 - I am enjoy coding in different languages and mendle with new technology
 - Right now I am learning Data Sturtures and algorithms, also I am trying my brain on JAVA
 - You can reach me here at:
@@ -35,10 +35,14 @@
 
 
 ## 💻 TOOLS & LANGUAGES:<img src="https://media.tenor.com/images/01597f45b16eca3ef1ad3ce69712231d/tenor.gif" width="55px">
-<img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2E8B57" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
+
+<img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="42px">
+<img align="left" src ="https://image.flaticon.com/icons/png/512/2721/2721287.png" alt="python" width="50px">
+<img align="left" src ="https://image.flaticon.com/icons/png/512/888/888859.png" alt="html" width="50px">
+<img align="left" src ="https://image.flaticon.com/icons/png/512/888/888847.png" alt="CSS" width="50px">
+<img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studios" width="45px">
+<img align="left" src ="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="JAVA" width = "35px"> 
+<br><br>
 
 ## 📙 MOST USED LANGUAGES:<img src="https://media.tenor.com/images/974096177dc2774496881b14a8f8a26a/tenor.gif" width="55px">
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=prussian&layout=compact" height = "140">
