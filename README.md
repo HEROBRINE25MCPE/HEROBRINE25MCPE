@@ -5,8 +5,8 @@
 # Hey, I'm HEROBRINE <img src="https://media.tenor.com/images/7b9103263827e3e43629a3648bb311a5/tenor.gif" width="55px">
 
 - I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
-- I am enjoy coding in different languages and mendle with new technology
-- Right now I am learning Data Sturtures and algorithms, also I am trying my brain on JAVA
+- I enjoy coding in different languages and mess with new technology
+- Right now I am learning Data Sturtures and algorithms, also I am trying my brain on Java
 - You can reach me here at:
   
   <a href="https://www.linkedin.com/in/abhay-tomer-65843b1a0/" target="_blank">
