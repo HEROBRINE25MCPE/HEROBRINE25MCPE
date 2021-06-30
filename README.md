@@ -11,7 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HEROBRINE25MCPE&label=Profile%20views&color=0e75b6&style=flat" alt="HEROBRINE25MCPE" /> </p>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 ## 💻 TOOLS & LANGUAGES:
