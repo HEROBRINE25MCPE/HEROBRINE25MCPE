@@ -20,7 +20,7 @@
 <img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
 
 ## 📙 MOST USED LANGUAGES:
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=gotham" height = "140">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=gotham&layout=compact" height = "140">
 
 ## 📈 MY STATS
 ![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=gotham&layout=compact)
