@@ -1,5 +1,5 @@
 <p align="right">
-  <img src ="https://media1.giphy.com/media/naiatn5LxTOsU/giphy.gif?cid=ecf05e47a50ejvp8g2gdymgech3iyafg3rsp9n71cdywis5n&rid=giphy.gif&ct=g" width = "400" height = "400" align = "right">
+  <img src ="https://media1.giphy.com/media/naiatn5LxTOsU/giphy.gif?cid=ecf05e47a50ejvp8g2gdymgech3iyafg3rsp9n71cdywis5n&rid=giphy.gif&ct=g" width = "360" height = "400" align = "right">
   </p>
 
 # Hey, I'm HEROBRINE <img src="https://media.tenor.com/images/7b9103263827e3e43629a3648bb311a5/tenor.gif" width="55px">
