@@ -23,7 +23,7 @@
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=gotham" height = "140">
 
 ## 📈 MY STATS
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=gotham)
+![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=gotham&layout=compact)
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=gotham)](https://git.io/streak-stats)
