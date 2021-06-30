@@ -7,7 +7,7 @@
 - I am currently my bachelors degree in CS. with specialization in InfoSEC
 - I am enjoy coding in different languages and mendle with new technology
 - Right now I am learning Data Sturtures and algorithms, also I am trying my brain on JAVA
-- You can reach me: [LinkedIn](https://www.linkedin.com/in/abhay-tomer-65843b1a0/) 
+- You can reach me here: [LinkedIn](https://www.linkedin.com/in/abhay-tomer-65843b1a0/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HEROBRINE25MCPE&label=Profile%20views&color=0e75b6&style=flat" alt="HEROBRINE25MCPE" /> </p>
 
