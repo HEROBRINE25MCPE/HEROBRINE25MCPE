@@ -4,7 +4,7 @@
 
 # Hey, I'm HEROBRINE <img src="https://media.tenor.com/images/7b9103263827e3e43629a3648bb311a5/tenor.gif" width="55px">
 
-- I am currently pusuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
+- I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
 - I am enjoy coding in different languages and mendle with new technology
 - Right now I am learning Data Sturtures and algorithms, also I am trying my brain on JAVA
 - You can reach me here at:
