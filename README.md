@@ -27,3 +27,4 @@
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=prussian)](https://git.io/streak-stats)
+<div class="tenor-gif-embed" data-postid="16016143" data-share-method="host" data-width="100%" data-aspect-ratio="1.008097165991903"><a href="https://tenor.com/view/jumping-blushing-eyes-closed-anime-gif-16016143">Jumping Blushing GIF</a> from <a href="https://tenor.com/search/jumping-gifs">Jumping GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
