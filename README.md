@@ -4,7 +4,7 @@
 
 # Hey, I'm Abhay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- I am currently my bachelors degree in CS. with specialization in InfoSEC
+- I am currently my bachelors degree in CS. with specialization in InfoSEC in CHANDIGARH UNIVERSITY
 - I am enjoy coding in different languages and mendle with new technology
 - Right now I am learning Data Sturtures and algorithms, also I am trying my brain on JAVA
 - You can reach me here: [LinkedIn](https://www.linkedin.com/in/abhay-tomer-65843b1a0/) 
@@ -20,10 +20,10 @@
 <img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
 
 ## 📙 MOST USED LANGUAGES:
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=gotham&layout=compact" height = "140">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=prussian&layout=compact" height = "140">
 
 ## 📈 MY STATS
-![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=gotham&layout=compact)
+![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=prussian&layout=compact)
 
 ## 🎇 MY STREAK:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=prussian)](https://git.io/streak-stats)
