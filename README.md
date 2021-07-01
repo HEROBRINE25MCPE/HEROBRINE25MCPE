@@ -43,6 +43,7 @@
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studios" width="45px">
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="JAVA" width = "35px"> 
 <br><br><br>
+<hr>
 
 
 ## 📙 MOST USED LANGUAGES:<img src="https://media.tenor.com/images/974096177dc2774496881b14a8f8a26a/tenor.gif" width="55px">
