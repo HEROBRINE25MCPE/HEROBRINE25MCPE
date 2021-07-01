@@ -10,14 +10,14 @@
 - You can reach me here at:
   
   <a href="https://www.linkedin.com/in/abhay-tomer-65843b1a0/" target="_blank">
-  <img align="left" alt="Linkedin " width="35px" src="https://img-premium.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1625077075~hmac=4a25c7aa8bc442768e5c1240e45379ff" />
+  <img align="left" alt="Linkedin " width="35px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />
   </a>
   
     <a href="https://www.instagram.com/abhay.tomer25/" target="_blank">
   <img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />
   </a>
   
-    <a href="" target="_blank">
+    <a href="https://t.me/HEROBRINE25MCPE" target="_blank">
   <img align="left" alt="Telegram" width="35px" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
   </a>
   
