@@ -2,7 +2,7 @@
   <img src ="https://media1.giphy.com/media/naiatn5LxTOsU/giphy.gif?cid=ecf05e47a50ejvp8g2gdymgech3iyafg3rsp9n71cdywis5n&rid=giphy.gif&ct=g" width = "360" height = "400" align = "right">
   </p>
 
-# Hey, I'm HEROBRINE <img src="https://media.tenor.com/images/7b9103263827e3e43629a3648bb311a5/tenor.gif" width="55px">
+# Hey, I'm HEROBRINE
 
 - I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
 - I enjoy coding in different languages and mess with new technology
@@ -34,7 +34,7 @@
 
 <br>
 
-## 💻 TOOLS & LANGUAGES:<img src="https://media.tenor.com/images/01597f45b16eca3ef1ad3ce69712231d/tenor.gif" width="55px">
+## 💻 TOOLS & LANGUAGES:
 
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="42px">
 <img align="left" src ="https://image.flaticon.com/icons/png/512/2721/2721287.png" alt="python" width="50px">
@@ -46,12 +46,12 @@
 <hr>
 
 
-## 📙 MOST USED LANGUAGES:<img src="https://media.tenor.com/images/974096177dc2774496881b14a8f8a26a/tenor.gif" width="55px">
+## 📙 MOST USED LANGUAGES:
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=prussian&layout=compact" height = "140">
 
-## 📈 MY STATS:<img src="https://media.tenor.com/images/d1b53d8835e48385117d86281d4681cc/tenor.gif" width="35px">
+## 📈 MY STATS:
 ![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=prussian&layout=compact)
 
-## 🎇 MY STREAK:<img src="https://media.tenor.com/images/af81a43097f550aaed5137fb9920ca06/tenor.gif" width="55px">
+## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=prussian)](https://git.io/streak-stats)
 
