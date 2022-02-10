@@ -12,11 +12,7 @@
   <a href="https://www.linkedin.com/in/abhay-tomer-65843b1a0/" target="_blank">
   <img align="left" alt="Linkedin " width="35px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />
   </a>
-  
-    <a href="https://www.instagram.com/abhay.tomer25/" target="_blank">
-  <img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />
-  </a>
-  
+    
     <a href="https://t.me/HEROBRINE25MCPE" target="_blank">
   <img align="left" alt="Telegram" width="35px" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
   </a>
@@ -25,11 +21,6 @@
   <img align="left" alt="Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
   </a>
   
-    <a href="https://www.facebook.com/Abhaytomer25" target="_blank">
-  <img align="left" alt="Facebook" width="35px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png" />
-  </a>
- 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=HEROBRINE25MCPE&label=Profile%20views&color=0e75b6&style=flat" alt="HEROBRINE25MCPE"/> </p>
 
 <br>
