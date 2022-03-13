@@ -28,7 +28,7 @@
 ## 💻 TOOLS & LANGUAGES:
 
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="42px">
-<img align="left" src ="https://image.flaticon.com/icons/png/512/2721/2721287.png" alt="python" width="50px">
+<img align="left" src ="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50px">
 <img align="left" src ="https://image.flaticon.com/icons/png/512/888/888859.png" alt="html" width="50px">
 <img align="left" src ="https://image.flaticon.com/icons/png/512/888/888847.png" alt="CSS" width="50px">
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studios" width="45px">
