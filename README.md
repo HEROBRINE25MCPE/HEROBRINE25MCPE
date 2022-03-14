@@ -14,7 +14,7 @@
   </a>
     
     <a href="https://t.me/HEROBRINE25MCPE" target="_blank">
-  <img align="left" alt="Telegram" width="35px" src="https://image.flaticon.com/icons/png/512/906/906377.png" />
+  <img align="left" alt="Telegram" width="35px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />
   </a>
   
     <a href="mailto:imherobrine25@gmail.com" target="_blank">
