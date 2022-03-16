@@ -10,7 +10,7 @@
 - You can reach me here at:
   
   <a href="https://www.linkedin.com/in/abhay-tomer-65843b1a0/" target="_blank">
-  <img align="left" alt="Linkedin " width="35px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1647169400~hmac=252cae58bc11ff2a6096f42a403a9f96" />
+  <img align="left" alt="Linkedin " width="35px" src="https://img.icons8.com/fluency/344/linkedin-circled.png" />
   </a>
     
     <a href="https://t.me/HEROBRINE25MCPE" target="_blank">
