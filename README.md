@@ -18,7 +18,7 @@
   </a>
   
     <a href="mailto:imherobrine25@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+  <img align="left" alt="Gmail" width="35px" src="https://img.icons8.com/clouds/344/gmail-new.png" />
   </a>
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=HEROBRINE25MCPE&label=Profile%20views&color=0e75b6&style=flat" alt="HEROBRINE25MCPE"/> </p>
