@@ -5,7 +5,7 @@
 # Hey, I'm HEROBRINE
 
 - I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
-- I enjoy coding in different languages and mess with new technology
+- I almost like coding, but new technologies exite me more.
 - Right now I am learning Data Structures and algorithms, also I am trying my brain on Java
 - You can reach me here at:
   
