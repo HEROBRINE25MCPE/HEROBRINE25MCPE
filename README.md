@@ -1,12 +1,10 @@
-<p align="right">
-  <img src ="https://media1.giphy.com/media/naiatn5LxTOsU/giphy.gif?cid=ecf05e47a50ejvp8g2gdymgech3iyafg3rsp9n71cdywis5n&rid=giphy.gif&ct=g" width = "360" height = "400" align = "right">
-  </p>
 
 # Hey, I'm HEROBRINE
 
 - I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
 - I almost like coding, but new technologies exite me more.
 - Right now I am learning Data Structures and algorithms, also I am trying my brain on Java
+
 - You can reach me here at:
   
   <a href="https://www.linkedin.com/in/abhay-tomer-65843b1a0/" target="_blank">
