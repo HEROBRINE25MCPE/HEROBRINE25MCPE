@@ -34,13 +34,6 @@
 <br><br><br>
 <hr>
 
-
-## 📙 MOST USED LANGUAGES:
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HEROBRINE25MCPE&theme=prussian&layout=compact" height = "140">
-
-## 📈 MY STATS:
-![HEROBRINE25MCPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROBRINE25MCPE&show_icons=true&theme=prussian&layout=compact)
-
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=prussian)](https://git.io/streak-stats)
 
