@@ -29,7 +29,6 @@
 <img align="left" src ="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50px">
 <img align="left" src ="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="html" width="50px">
 <img align="left" src ="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" width="50px">
-<img align="left" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studios" width="45px">
 <img align="left" src ="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="JAVA" width = "35px"> 
 <br><br><br>
 <hr>
