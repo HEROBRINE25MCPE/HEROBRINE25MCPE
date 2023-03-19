@@ -1,6 +1,8 @@
 
 # Hey, I'm HEROBRINE
 
+<img src="/abhaybanner.jpg">
+
 - I am currently pursuing my bachelors degree in CS. with specialization in Information Security in [Chandigarh University](https://www.cuchd.in/)
 - I almost like coding, but new technologies exite me more.
 - Right now I am learning Data Structures and algorithms, also I am trying my brain on Java
