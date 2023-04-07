@@ -38,3 +38,5 @@
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINE25MCPE&theme=prussian)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api username=Herobrine25mcpe 8& show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+
